@@ -7,7 +7,7 @@
 <img src="https://github.com/hs-1771178-leenamho/study/blob/main/img/cameraui.png" width="1000" height="1000">
 
 1.라이센스</br>
-+MIT License
++ MIT License
 
 2.지원 클라이언트</br>
 + iOS</br> 
